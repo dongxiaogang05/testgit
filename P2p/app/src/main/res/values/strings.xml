@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">P2p</string>
+    <string name="action_settings">Settings</string>
+
+    <!--投资模块所有的tab选项-->
+    <string-array name="touzi_tab">
+        <item>全部理财</item>
+        <item>推荐理财</item>
+        <item>热门理财</item>
+    </string-array>
+</resources>
